@@ -1,0 +1,17 @@
+{
+  "model_type": "CalibratedLogisticRegression",
+  "classes": [
+    "Fake",
+    "Real"
+  ],
+  "version": "2.0",
+  "training_date": "2025-05-08T11:09:00.358917",
+  "metrics": {
+    "training_accuracy": 0.93533092504193,
+    "training_auc_roc": 0.9794383176670088,
+    "validation_accuracy": 0.9345004527618472,
+    "validation_auc_roc": 0.9798543110964475,
+    "test_accuracy": 0.937321078800663,
+    "test_auc_roc": 0.9814720800647208
+  }
+}
