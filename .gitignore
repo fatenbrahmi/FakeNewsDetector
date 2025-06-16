@@ -1,0 +1,10 @@
+# Ignorer fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Ignorer fichiers de modèle 
+*.pkl
+*.joblib
+
+# Ignorer dossiers temporaires
+*.csv
